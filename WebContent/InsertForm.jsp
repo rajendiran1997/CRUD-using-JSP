@@ -48,7 +48,7 @@
 		</tr>
 		<tr>
 			<td>
-				<label>Date of join(format:'01-JAN-12'):</label>
+				<label>Date of Birth:</label>
 			</td>
 			<td>
 				<input type="text" name="userdob" required="required">
